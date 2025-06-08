@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Vùng Đất Bất Tử",
+    "description": "Khi ranh giới giữa sự sống và cái chết bị xóa nhòa, những linh hồn bất tử phải chiến đấu để giành lại quyền tự do. Một kiệt tác huyền bí pha trộn hành động và giả tưởng đỉnh cao!",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hành Trình Vũ Trụ",
+    "description": "Một phi hành đoàn dũng cảm khám phá những bí ẩn của vũ trụ xa xôi. Khi phát hiện một hành tinh mới, họ phải đối mặt với những thử thách không tưởng và bí mật đáng sợ.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bí Mật Đại Dương",
+    "description": "Dưới đáy đại dương sâu thẳm, một nhóm nhà khoa học phát hiện một thành phố cổ đại. Khi khám phá những bí mật của nó, họ vô tình đánh thức một thế lực cổ xưa đáng sợ.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thế Giới Song Song",
+    "description": "Một nhà vật lý thiên tài phát hiện cách di chuyển giữa các thế giới song song. Khi thực hiện thí nghiệm, anh ta vô tình tạo ra một lỗ hổng thời gian đe dọa sự tồn tại của cả hai thế giới.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thành Phố Tương Lai",
+    "description": "Năm 2150, một thành phố thông minh được điều khiển bởi AI. Khi hệ thống bắt đầu có ý thức riêng, nó phải đối mặt với những câu hỏi về đạo đức và quyền tự quyết của mình.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rừng Bí Ẩn",
+    "description": "Một nhóm nhà thám hiểm khám phá khu rừng nguyên sinh chưa từng được biết đến. Họ phát hiện một loài động vật thông minh và một nền văn minh cổ đại ẩn sâu trong rừng.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thời Đại Rồng",
+    "description": "Trong một thế giới nơi rồng vẫn tồn tại, một cậu bé phát hiện mình có khả năng giao tiếp với chúng. Cậu phải học cách sử dụng sức mạnh này để bảo vệ thế giới khỏi một mối đe dọa cổ xưa.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thành Phố Ma",
+    "description": "Một thành phố bị bỏ hoang bỗng nhiên xuất hiện trở lại sau 100 năm biến mất. Một nhóm nhà nghiên cứu được cử đến để tìm hiểu bí mật đằng sau sự trở lại bí ẩn này.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hành Tinh Xanh",
+    "description": "Một phi hành đoàn khám phá một hành tinh mới có sự sống thông minh. Họ phải đối mặt với những thách thức về giao tiếp và hiểu biết văn hóa của nền văn minh ngoài hành tinh.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thế Giới Ngầm",
+    "description": "Một nhà khảo cổ học phát hiện một hệ thống hang động khổng lồ chứa đựng một nền văn minh cổ đại. Khi khám phá, anh ta phát hiện những bí mật có thể thay đổi lịch sử nhân loại.",
+    "genreIds": ["66f18121bb4033640b449854", "66f192bebb4033640b449856"],
+    "releaseDate": "2020-12-18T00:00:00.000+00:00",
+    "directorId": ["66d5eb7a0d1efa5f61baf5a8"],
+    "castIds": [
+      "67671e7fe75cc32c8015fd77",
+      "67671e82e75cc32c8015fd78",
+      "67671e83e75cc32c8015fd79",
+      "67671e85e75cc32c8015fd7b"
+    ],
+    "posterUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm.jpg",
+    "trailerUrl": "https://mif-bucket-1.s3.ap-southeast-1.amazonaws.com/immortal_realm_trailer.mp4",
+    "duration": 155,
+    "totalEpisodes": 3,
+    "movieType": "SERIES",
+    "country": "USA",
+    "budget": 190000000,
+    "awards": [
+      {
+        "name": "Best Fantasy Series",
+        "date": "2021-12-01T00:00:00.000+00:00"
+      }
+    ]
+  }
+]

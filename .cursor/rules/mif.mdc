@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+trước khi thực hiện luôn đọc [README.md](mdc:README.md) đầu tiên để hiểu cấu trúc dự ắn và công nghệ hiện có, nếu bạn thêm công nghệ gì mới sau khi code thì cũng phải update công nghệ / dependency đó vào [README.md](mdc:README.md)

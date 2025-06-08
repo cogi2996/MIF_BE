@@ -1,0 +1,201 @@
+@startuml
+
+package "Collection" {
+    class Actor {
+        + id : ObjectId
+        + name : String
+        + dateOfBirth : Date
+        + bio : String
+        + awards : List<Award>
+        + filmography : List<Movie>
+        + profilePictureUrl : String
+        + createdAt : Date
+        + updatedAt : Date
+        + scoreRank : Double
+        + previousScoreRank : Double
+        + deleted : boolean
+    }
+
+    class ActorsRank {
+        + id : String
+        + actorId : String
+    }
+
+    class Award {
+        + name : String
+        + date : Date
+    }
+
+    class ChatMessage {
+        + id : ObjectId
+        + groupId : ObjectId
+        + senderId : ObjectId
+        + senderName : String
+        + avatar : String
+        + content : String
+        + createAt : Date
+    }
+
+    class Comment {
+        + id : ObjectId
+        + postId : ObjectId
+        + groupId : ObjectId
+        + userId : ObjectId
+        + username : String
+        + userAvatar : String
+        + content : String
+        + upvotes : Set<ObjectId>
+        + downvotes : Set<ObjectId>
+        + createAt : Date
+    }
+
+    class Director {
+        + id : ObjectId
+        + name : String
+        + dateOfBirth : Date
+        + bio : String
+        + filmography : List<Movie>
+        + awards : List<Award>
+        + profilePictureUrl : String
+        + createdAt : Date
+        + updatedAt : Date
+    }
+
+    class Event {
+        + id : ObjectId
+        + eventName : String
+        + groupId : ObjectId
+        + ownerId : ObjectId
+        + description : String
+        + startDate : Date
+        + eventPicture : String
+        + socialType : SocialType
+        + eventType : EventType
+        + link : String
+        + location : String
+        + userJoin : List<ObjectId>
+        + createdAt : LocalDateTime
+    }
+
+    class Group {
+        + id : ObjectId
+        + groupName : String
+        + description : String
+        + avatarUrl : String
+        + owner : User
+        + category : MovieCategory
+        + members : List<GroupMember>
+        + createdAt : Date
+        + updatedAt : Date
+        + isPublic : Boolean
+        + groupType : GroupType
+        + pendingInvitations : List<User>
+        + ruleList : List<GroupRule>
+    }
+
+    class GroupMember {
+        + userId : ObjectId
+        + joinedAt : Date
+    }
+
+    class GroupPost {
+        + id : ObjectId
+        + title : String
+        + group : Group
+        + owner : User
+        + content : String
+        + mediaUrls : List<String>
+        + ratingCount : Integer
+        + createdAt : Date
+        + updatedAt : Date
+    }
+
+    class GroupPostComments {
+        + id : ObjectId
+        + postId : String
+        + userId : String
+        + comment : String
+        + createdAt : Date
+        + updatedAt : Date
+    }
+
+    class GroupPostRatings {
+        + id : ObjectId
+        + ratings : VoteType
+        + postId : ObjectId
+        + groupId : ObjectId
+        + userId : ObjectId
+        + createdAt : Date
+    }
+
+    class GroupRule {
+        + id : ObjectId
+        + ruleDescription : String
+    }
+
+     class Movie {
+        + id : ObjectId
+        + title : String
+        + description : String
+        + releaseDate : Date
+        + genre : List<MovieCategory>
+        + director : List<Director>
+        + cast : List<Actor>
+        + posterUrl : String
+        + trailerUrl : String
+        + duration : Integer
+        + country : String
+        + budget : Double
+        + awards : List<Award>
+        + createdAt : Date
+        + updatedAt : Date
+        + movieType : MovieType
+        + totalEpisodes : Integer
+    }
+
+    class MovieCategory {
+        + id : ObjectId
+        + name : String
+        + description : String
+    }
+
+    class User {
+        + id : ObjectId
+        + displayName : String
+        + email : String
+        + password : String
+        + profilePictureUrl : String
+        + bio : String
+        + dob : Date
+        + isActive : Boolean
+        + createdAt : Date
+        + updatedAt : Date
+        + role : Role
+        + provider : Provider
+        + googleSub : String
+        + userType : UserType
+        + balance : double
+        + tokens : List<Token>
+    }
+
+    class VoteType {
+        + value : int
+    }
+
+    class SocialType {
+        + name : String
+    }
+
+    class EventType {
+        + id : ObjectId
+        + name : String
+        + description : String
+    }
+
+      class Ratings {
+        + averageRating : Double
+        + numberOfRatings : Integer
+    }
+}
+
+@enduml
