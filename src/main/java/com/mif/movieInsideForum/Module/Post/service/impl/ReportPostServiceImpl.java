@@ -128,7 +128,7 @@ public class ReportPostServiceImpl implements ReportPostService {
         String url = "https://api.openai.com/v1/moderations";
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
-        headers.set("Authorization", "Bearer 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");
+        headers.set("Authorization", "Bearer ***");
 
         // Combine post content for analysis
         String contentToAnalyze = String.format("Title: %s\nContent: %s", 
